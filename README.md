@@ -33,4 +33,4 @@ python app.py
 python -m unittest
 ```
 
-فونت Vazirmatn با مجوز SIL Open Font License 1.1 توزیع می‌شود؛ متن مجوز در `assets\fonts\OFL.txt` قرار دارد.
+فونت Vazirmatn با مجوز SIL Open Font License 1.1 توزیع می‌شود؛ متن مجوز در `OFL-Vazirmatn.txt` قرار دارد.
